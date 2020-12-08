@@ -1,0 +1,58 @@
+h1 {
+  width: 100%;
+  font-size: 28px;
+  font-family: Helvetica Neu, sans-serif;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #888888 0%, #000000 100%);
+    -webkit-text-fill-color: White;
+}
+
+h2 {
+
+}
+
+.button {
+  display: inline-block;
+  font-family:'Roboto',sans-serif;
+  background: linear-gradient(to right, #888888 0%, #000000 100%);
+    -webkit-text-fill-color: White;
+  font-size: 16px;
+  border: 0.1em solid #FFFFFF;
+  color: #FFFFFF;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+}
+
+img {
+  width: 100%;
+  heith: 100%;
+}
+
+#est {
+  float: left;
+  width: 50%;
+  font-size: 28px;
+  font-family: Helvetica Neu, sans-serif;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#ouest {
+  margin-left: 50%;
+  left: 40%;
+  width: 50%;
+  font-size: 28px;
+  font-family: Helvetica Neu, sans-serif;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
